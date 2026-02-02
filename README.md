@@ -17,3 +17,10 @@ This project implements frame-wise pitch detection from human speech signals usi
 ## Application
 - Speech signal analysis
 - DSP academic projects
+
+## How to Run
+1. Install required libraries: NumPy, SciPy, Matplotlib
+2. Place an input WAV file in the project directory
+3. Update the file path in the code
+4. Run the Python script to obtain pitch histogram and voice classification
+
