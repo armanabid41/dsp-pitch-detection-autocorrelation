@@ -1,6 +1,6 @@
 # DSP Pitch Detection using Autocorrelation
 
-This project implements frame-wise pitch detection from human speech signals using the autocorrelation method.
+This project demonstrates frame-wise pitch detection from speech signals using classical DSP techniques.
 
 ## Features
 - Band-pass filtering (80–500 Hz)
